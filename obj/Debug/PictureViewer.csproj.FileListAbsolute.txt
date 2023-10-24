@@ -1,0 +1,33 @@
+D:\IFRO\poo\4 bimestre\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\IFRO\poo\4 bimestre\PictureViewer\bin\Debug\PictureViewer.exe
+D:\IFRO\poo\4 bimestre\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.exe
+D:\IFRO\poo\4 bimestre\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\2022102020080\source\repos\picture-viewer-\bin\Debug\PictureViewer.exe.config
+C:\Users\2022102020080\source\repos\picture-viewer-\bin\Debug\PictureViewer.exe
+C:\Users\2022102020080\source\repos\picture-viewer-\bin\Debug\PictureViewer.pdb
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.Form1.resources
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.exe
+C:\Users\2022102020080\source\repos\picture-viewer-\obj\Debug\PictureViewer.pdb
+C:\Users\2022102020080\source\repos\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\2022102020080\source\repos\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\2022102020080\source\repos\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\2022102020080\source\repos\PictureViewer\obj\Debug\PictureViewer.pdb
